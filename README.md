@@ -6,7 +6,7 @@ This console application shows how the Builder Design Pattern can be used to con
 
 The purpose of this project is to provide a straightforward explanation of the Builder Design Pattern, making it accessible to developers at all levels.
 
-I have also explained this pattern in more detail in my LinkedIn article: **[Let's Play With: Design Patterns - Builder Design Pattern](#)**. *(Link to be updated)*
+I have also explained this pattern in more detail in my LinkedIn article: **[Let's Play With: Design Patterns - Builder Design Pattern](#)**. *(https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/)*
 
 This project was created by **Manos Kefalas** to help developers learn and apply the Builder Design Pattern effectively.
 
@@ -73,7 +73,7 @@ Parts:
 This structure adheres to the Builder Design Pattern, ensuring flexibility and modularity.
 
 ## **Article Link**
-Read my detailed article on LinkedIn: **[Let's Play With: Design Patterns - Builder Design Pattern](#)** *(Link to be updated)*.
+Read my detailed article on LinkedIn: **[Let's Play With: Design Patterns - Builder Design Pattern](#)** *(https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/)*.
 
 ## **About the Author**
 This project was created by **Manos Kefalas** as part of the series **"Let's Play With: Design Patterns"**, aiming to provide practical examples for developers to learn and apply design patterns effectively.
