@@ -43,7 +43,7 @@ The `Program` class demonstrates how to use the Director and Builders to create 
 
 ### Run the Application
 1. Clone the repository.
-   git clone https://github.com/your-username/BuilderDesignPattern.git
+   git clone https://github.com/mkefclio/BuilderDesignPattern.git
    cd BuilderDesignPattern
    
 2. Build and run the project using the .NET CLI or Visual Studio.
